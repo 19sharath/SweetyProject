@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="95486" started-at="2017-10-25T15:29:53Z" finished-at="2017-10-25T15:31:28Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="95486" started-at="2017-10-25T15:29:53Z" finished-at="2017-10-25T15:31:28Z">
+      <class name="TestCases.Testcase2">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestCases.Testcase2@735f7ae5]" name="setup" is-config="true" duration-ms="5475" started-at="2017-10-25T21:01:21Z" finished-at="2017-10-25T21:01:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login()[pri:0, instance:TestCases.Testcase2@735f7ae5]" name="login" duration-ms="1688" started-at="2017-10-25T21:01:26Z" finished-at="2017-10-25T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="closeB()[pri:0, instance:TestCases.Testcase2@735f7ae5]" name="closeB" is-config="true" duration-ms="73" started-at="2017-10-25T21:01:28Z" finished-at="2017-10-25T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeB -->
+      </class> <!-- TestCases.Testcase2 -->
+      <class name="TestCases.Testcase1">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestCases.Testcase1@77b52d12]" name="setup" is-config="true" duration-ms="9319" started-at="2017-10-25T20:59:53Z" finished-at="2017-10-25T21:00:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testHomePAge()[pri:0, instance:TestCases.Testcase1@77b52d12]" name="testHomePAge" duration-ms="78589" started-at="2017-10-25T21:00:02Z" finished-at="2017-10-25T21:01:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePAge -->
+        <test-method status="PASS" signature="closeB()[pri:0, instance:TestCases.Testcase1@77b52d12]" name="closeB" is-config="true" duration-ms="328" started-at="2017-10-25T21:01:21Z" finished-at="2017-10-25T21:01:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeB -->
+      </class> <!-- TestCases.Testcase1 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

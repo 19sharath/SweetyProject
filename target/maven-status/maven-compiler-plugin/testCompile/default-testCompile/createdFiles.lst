@@ -1,0 +1,8 @@
+factory/BrowserFactroy.class
+TestCases/Testcase1.class
+dataprovider/ExcelData.class
+Pages/Reportpage.class
+Pages/LoginPage.class
+TestCases/Testcase2.class
+dataprovider/ConfigurationData.class
+factory/DataProvider.class
